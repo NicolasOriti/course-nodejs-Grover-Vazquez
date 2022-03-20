@@ -10,6 +10,10 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.3"
+        "@hapi/joi": "^17.1.1",
+        "config": "^3.3.7",
+        "debug": "^4.3.4",
+        "express": "^4.17.3",
+        "morgan": "^1.10.0"
     }
 }
